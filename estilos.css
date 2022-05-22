@@ -1,0 +1,22 @@
+/* .red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+} */
+.nombre{
+    text-align: center;
+}
+.imagen{
+    text-align: center;
+}
+.padre{
+    display: flex;
+    text-align: center;
+    
+  
+}
+footer{
+    text-align: center;
+    margin-top: 50px;
+}
